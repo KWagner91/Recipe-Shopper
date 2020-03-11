@@ -1,27 +1,40 @@
-# MyFirstApp
+# Shopping Recipe App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
+A Shopping App to store recipes and fill out your shopping list. The apllication is based on "Angular 8 - The Complete Guide" from M. Schwarzmüller:
+> From Setup to Deployment, this course covers it all! You'll learn all about Components, Directives, Services, Forms, Http Access, Authentication, Optimizing an Angular App with Modules and Offline Compilation and much more - and in the end: You'll learn how to deploy an application
 
-## Development server
+## Instructions
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+To get started please follow the instructions bellow:
 
-## Code scaffolding
+* git clone https://github.com/KWagner91/Recipe-Shopper
+* cd Recipe-Shopper
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Install dependencies and run with:
 
-## Build
+_npm_
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+> npm install
+> npm run serve
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+and
 
-## Running end-to-end tests
+_Angular_
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+> npm install -g @angular/cli
+> ng serve --open
 
-## Further help
+And then visit localhost:4200
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Project Specifications
+- TypeScript
+- (Custom) Directives and Components
+- Routing
+- Pipes
+- RESTful servers
+- Dependency Injection and Modules
+
+
+### Enjoy!
